@@ -17,7 +17,6 @@ edition = "2018"
 homepage = "https://r-util.github.com/r-shquote"
 keywords = [
         "argv",
-        "bash",
         "parser",
         "quote",
         "shell",
