@@ -1,0 +1,30 @@
+[package]
+name = "r-shquote"
+version = "0.1.0"
+
+authors = [
+        "David Herrmann <dh.herrmann@gmail.com>",
+        "Tom Gundersen <teg@jklm.no>",
+]
+categories = [
+        "command-line-interface",
+        "config",
+        "encoding",
+        "parser-implementations",
+]
+description = "POSIX Shell Compatible Argument Parser"
+edition = "2018"
+homepage = "https://r-util.github.com/r-shquote"
+keywords = [
+        "argv",
+        "bash",
+        "parser",
+        "quote",
+        "shell",
+        "unquote",
+]
+license = "Apache-2.0 OR LGPL-2.1-or-later"
+readme = "README.md"
+repository = "https://github.com/r-util/r-shquote"
+
+[dependencies]
