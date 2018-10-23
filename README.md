@@ -18,7 +18,7 @@ Git Web: [@github](https://github.com/r-util/r-shquote)
 
 The requirements for r-shquote are:
 
-        * `std` (in particular `alloc` for string-allocations)
+ * `std` (in particular `alloc` for string-allocations)
 
 ## License
 
