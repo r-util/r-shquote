@@ -10,9 +10,9 @@ supported.
 
 ## Project
 
-Website: [@r-util](https://r-util.github.io/r-shquote)
-Bug Tracker: [@github](https://github.com/r-util/r-shquote/issues)
-Git Web: [@github](https://github.com/r-util/r-shquote)
+ * Website: [@r-util](https://r-util.github.io/r-shquote)
+ * Bug Tracker: [@github](https://github.com/r-util/r-shquote/issues)
+ * Git Web: [@github](https://github.com/r-util/r-shquote)
 
 ## Requirements
 
